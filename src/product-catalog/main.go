@@ -318,4 +318,8 @@ func createClient(ctx context.Context, svcAddr string) (*grpc.ClientConn, error)
 
 
 
+//Cambiogo build -o product-catalog-service main.go
+
+
+
 
